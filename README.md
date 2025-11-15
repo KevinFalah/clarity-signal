@@ -11,7 +11,8 @@ The application is deployed on Streamlit Community Cloud and is publicly accessi
 ➡️ Access the Live Dashboard here [claritySignal](https://clarity-signal-for-u.streamlit.app/)
 
 📊 Dashboard Preview
-<img width="1901" height="896" alt="image" src="https://github.com/user-attachments/assets/83b6a0be-7a76-48cf-81fe-994718011c29" />
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/ee847467-8e3b-46f1-b5ee-0c8f601e1dd2" />
+
 
 ✅ The Validation Checklist
 

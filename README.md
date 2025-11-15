@@ -8,13 +8,10 @@ Instead of relying on a single noisy indicator, this dashboard validates potenti
 
 The application is deployed on Streamlit Community Cloud and is publicly accessible:
 
-➡️ Access the Live Dashboard Here
-
-(Just replace the link above with your own Streamlit app URL after you deploy it!)
+➡️ Access the Live Dashboard here [claritySignal](https://clarity-signal-for-u.streamlit.app/)
 
 📊 Dashboard Preview
-
-(Note: Take a screenshot of your running application and upload it to your repository. Then, replace the link below to show a preview.)
+<img width="1901" height="896" alt="image" src="https://github.com/user-attachments/assets/83b6a0be-7a76-48cf-81fe-994718011c29" />
 
 ✅ The Validation Checklist
 

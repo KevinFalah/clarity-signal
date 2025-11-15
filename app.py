@@ -113,7 +113,7 @@ def create_price_chart(df, ticker):
 # INTERFACE WEB APPLICATION
 # ==========================================================
 
-st.title("📊 Dashboard Analisis Sinyal Kripto")
+st.title("📊 Clarity Signal")
 st.markdown("Sebuah alat untuk memvalidasi sinyal trading menggunakan konfluensi teknikal dan sentimen.")
 
 st.sidebar.header("⚙️ Kontrol Input")
